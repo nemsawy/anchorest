@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Muslim Prayers for Everyday Success</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:ba4a6811-908e-0da5-22ab-ab3bbee346a5</dc:identifier>
+        <dc:identifier id="isbn-id">urn:isbn:1484098137</dc:identifier><meta refines="#isbn-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+<meta name="cover" content="img0" />
+
+        <dc:creator>Abdur-Raheem A. Shittu Esq.</dc:creator>
+        <dc:publisher>al-FUR&#039;QAAN PUBLISHERS</dc:publisher>
+        <dc:rights>Abdur-Raheem A. Shittu Esq.</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>&lt;p&gt;&lt;span style=&quot;color:#006400&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;strong&gt;An Essential, Unique, Authentic and Powerful Islamic Prayer Book!&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style=&quot;font-size:14px&quot;&gt;&lt;strong&gt;This is an essential Islamic prayer book for calling upon Almighty Allaah, Al-Musta&amp;lsquo;aan (The One Whose Help is sought), in achieving success in the Muslims&amp;#39; spiritual, social, economic, matrimonial and everyday affairs, by the permission of Allaah, Al-Wahhaab (The Grantor); using the powerful and the efficacious du&amp;#39;aa formulas of the best of humankind - Prophet Muhammad sallallaahu &amp;#39;alayhi wasallam - in supplications to Almighty Allaah, Al-Mujeeb (The Responsive).&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+This book makes easy &lt;strong&gt;&lt;em&gt;the imitation and the consistent utilization&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;of Prophet Muhammad&amp;#39;s - sallallaahu &amp;#39;alayhi wasallam - &lt;strong&gt;powerful and efficacious du&amp;#39;aa formulas&lt;/strong&gt;.&lt;br /&gt;
+&lt;br /&gt;
+The &lt;strong&gt;SWEETNESS&lt;/strong&gt;&amp;nbsp;of this book is in laying your hands on it and start using it because &lt;strong&gt;&lt;em&gt;the sweetness of a pudding is said to be in the eating.&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+</dc:description>
+        <meta property="dcterms:modified">2022-09-27T14:41:59Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.8.2</meta>
+        <meta property="kotobee:build">2543</meta>
+
+        <!-- DAISY requirements -->
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessMode">visual</meta>
+        <meta property="schema:accessModeSufficient">textual, visual</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta> 
+        <meta property="schema:accessibilityHazard">none</meta> 
+        <meta property="schema:accessibilitySummary">The publication contains structural and page navigation.</meta>
+
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/raw/sphioi.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/mp4es-cover-image.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img1" href="imgs/share-the-free-app.png" media-type="image/png"/>
+<item id="img2" href="../_kmeta/imgUser/mp4es-app-startup-im.png" media-type="image/png"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
+<item id="js3" href="../_kmeta/config.js" media-type="text/javascript"/>
+<item id="txt0" href="../_kmeta/content.json" media-type="application/json"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>
